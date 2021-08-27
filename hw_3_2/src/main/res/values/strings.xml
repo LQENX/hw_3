@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">hw_3_2</string>
+    <string name="button_get">GET IMAGE</string>
+    <string name="hint_image_url">Type image url or id</string>
+</resources>

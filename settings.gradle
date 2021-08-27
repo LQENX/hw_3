@@ -1,2 +1,3 @@
-include ':app'
+include ':hw_3_2'
+include ':hw_3_1'
 rootProject.name = "hw_3"
